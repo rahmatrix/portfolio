@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-color: #1E1E1E;
+  --sidebar-color: #252526;
+  --header-color: #3C3C3C;
+  --text-color: #CCCCCC;
+  --accent-color: #007ACC;
+  --border-color: #3E3E42;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* General component styles using CSS variables */
+.bg-background { background-color: var(--bg-color); }
+.bg-sidebar { background-color: var(--sidebar-color); }
+.bg-header { background-color: var(--header-color); }
+.text-main { color: var(--text-color); }
+.border-main { border-color: var(--border-color); }
+.bg-accent { background-color: var(--accent-color); }
+.text-accent { color: var(--accent-color); }
+
+/* Hover states */
+.hover\:bg-sidebar-hover:hover { background-color: color-mix(in srgb, var(--sidebar-color) 90%, black); }
+.hover\:text-white:hover { color: white; }
+.hover\:bg-accent-hover:hover { background-color: color-mix(in srgb, var(--accent-color) 90%, white); }
