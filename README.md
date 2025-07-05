@@ -42,7 +42,8 @@ A beautiful, modern, and production-ready personal portfolio website built with 
 
 **Rahma Rohmatinisa**  
 [GitHub](https://github.com/rahmatrix)  
-[LinkedIn](https://www.linkedin.com/in/rahmatrix/)  
+[LinkedIn](https://www.linkedin.com/in/rahma-rohmatinisa-5a008a369/) 
+[Instagram](https://www.instagram.com/rah.mails?igsh=MXBoaGt2bWh5N2pl).
 
 ---
 
@@ -54,7 +55,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌐 Live Demo
 
-Check out the live portfolio: [https://your-portfolio-demo-link.com](https://your-portfolio-demo-link.com)
+Check out the live portfolio: [https://portfoliorhma.vercel.app/](https://portfoliorhma.vercel.app/)
 
 ---
 
