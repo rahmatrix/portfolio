@@ -42,8 +42,9 @@ A beautiful, modern, and production-ready personal portfolio website built with 
 
 **Rahma Rohmatinisa**  
 [GitHub](https://github.com/rahmatrix)  
-[LinkedIn](https://www.linkedin.com/in/rahma-rohmatinisa-5a008a369/). 
-[Instagram](https://www.instagram.com/rah.mails?igsh=MXBoaGt2bWh5N2pl).
+[LinkedIn](https://www.linkedin.com/in/rahma-rohmatinisa-5a008a369/) 
+
+[Instagram](https://www.instagram.com/rah.mails?igsh=MXBoaGt2bWh5N2pl)
 
 ---
 
