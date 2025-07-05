@@ -81,7 +81,7 @@ const HeroSection: React.FC = () => {
             <Github size={24} />
           </a>
           <a 
-            href="https://linkedin.com/in/username" 
+            href="https://linkedin.com/in/rahma-rohmatinisa-5a008a369/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-main hover:text-white transition-colors"
