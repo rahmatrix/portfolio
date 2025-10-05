@@ -8,6 +8,12 @@ const certificateData = [
     type: 'image',
   },
   {
+    title: 'Pelatihan Barista',
+    path: '/sertif.jpg',
+    alt: 'Pelatihan Barista',
+    type: 'image',
+  },
+  {
     title: 'Ready4AI & Security Training',
     path: '/cert_ready4ai_and_security.pdf',
     alt: 'AI & Security Certificate',
