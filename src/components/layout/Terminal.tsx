@@ -60,9 +60,9 @@ const Terminal: React.FC<TerminalProps> = ({ isOpen, onToggle }) => {
         
       case 'contact':
         newHistory.push(
-          '> Email: email@example.com',
-          '> GitHub: github.com/username',
-          '> LinkedIn: linkedin.com/in/username'
+          '> Email: rahmarohmatinisa7@gmail.com',
+          '> GitHub: github.com/rahmatrix',
+          '> LinkedIn: linkedin.com/in/rahma-rohmatinisa-5a008a369'
         );
         break;
         
