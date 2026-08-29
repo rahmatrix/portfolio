@@ -27,6 +27,6 @@ export const projects: Project[] = [
     imageUrl: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     technologies: ['Next.js', 'JavaScript', 'CSS'],
     repoUrl: 'https://github.com/rahmatrix/scrapbook',
-    demoUrl: 'https://scrapbook-five.vercel.app/',
+    demoUrl: '',
   }
 ];
