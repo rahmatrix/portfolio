@@ -14,7 +14,7 @@ export const projects: Project[] = [
     id: '2',
     title: 'Curhat Space',
     description: 'Curhat Space adalah aplikasi chatbot berbasis React + TypeScript yang dirancang sebagai "teman curhat" digital. Menggunakan AI untuk memberikan respon yang bersahabat, mendukung respons emosional, dan membantu pengguna meluapkan perasaan dalam suasana yang nyaman.',
-    imageUrl: 'https://i.pinimg.com/1200x/cf/e2/4e/cfe24eb1452b37aec25e16363f765607.jpg',
+    imageUrl: '/curhat.png',
     technologies: ['React', 'TypeScript', 'Supabase', 'AI', 'Tailwind CSS'],
     repoUrl: 'https://github.com/rahmatrix/curhat-space',
     demoUrl: 'https://serenity-coral.vercel.app',
